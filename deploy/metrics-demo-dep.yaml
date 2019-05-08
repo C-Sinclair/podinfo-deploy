@@ -18,8 +18,7 @@ spec:
     spec:
       containers:
       - name: podinfod
-        image: quay.io/repository/brice/metrics-demo
-        tag: v4-subscription-service
+        image: quay.io/repository/brice/metrics-demo:v4-subscription-service
 #         command:
 #             - ./podinfo
 #             - --port=3000
