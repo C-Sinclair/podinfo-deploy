@@ -1,0 +1,1 @@
+{"jobID":"d79bb954-2041-3505-0746-7bb16efc5ec4","spec":{"type":"policy","cause":{"Message":"","User":"Conor Sinclair \u003cconor@wilxite.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
